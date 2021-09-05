@@ -9,6 +9,7 @@ import FormControl from "@material-ui/core/FormControl";
 import Select from "@material-ui/core/Select";
 import { fetchLeagues } from './components/apiFunction/ApiFunction';
 import BarChart from './components/BarChart';
+import cupLogo from "./cup.svg"
 
 const useStyles = makeStyles(() => ({
   formControl: {
@@ -34,11 +35,13 @@ const App = () => {
 <React.Fragment>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Grid>
+        <Grid container>
+        <img src={cupLogo} alt="football Logo" style={{ marginTop: 20, width:100, height:100}}/>
           <FormControl className={classes.formControl}>
             <Select
               value={league}
               onChange={event => setLeague(event.target.value)}
+              color="white"
             >
               {
                 leagues.map(league => (

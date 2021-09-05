@@ -42,6 +42,7 @@ const BarChart = ({ league }) => {
             }
         ]}
         type="bar"
+        height={570}
       />
     </div>
   );
