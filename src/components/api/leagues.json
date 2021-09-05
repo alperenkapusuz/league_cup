@@ -1,0 +1,110 @@
+[
+    {
+        "league": "LIGA PROFESIONAL DE FÚTBOL (ARGENTINA)",
+        "Slug": "argentina"
+    },
+    {
+        "league": "A-LEAGUE (AUSTRALIA)",
+        "Slug": "australia"
+    },
+    {
+        "league": "Ö. BUNDESLIGA (AUSTRIA)",
+        "Slug": "austria"
+    },
+    {
+        "league": "1A PRO LEAGUE (BELGIUM)",
+        "Slug": "belgium"
+    },
+    {
+        "league": "LIGA DO BRASIL (BRAZIL)",
+        "Slug": "brazil"
+    },
+    {
+        "league": "CSL (CHINA)",
+        "Slug": "china"
+    },
+    {
+        "league": "3F SUPERLIGA (DENMARK)",
+        "Slug": "denmark"
+    },
+    {
+        "league": "PREMIER LEAGUE (ENGLAND)",
+        "Slug": "england"
+    },
+    {
+        "league": "LIGUE 1 UBER EATS (FRANCE)",
+        "Slug": "france"
+    },
+    {
+        "league": "BUNDESLIGA (GERMANY)",
+        "Slug": "germany"
+    },
+    {
+        "league": "SSE AIRTRICITY LGE (IRELAND)",
+        "Slug": "ireland"
+    },
+    {
+        "league": "SERIE A TIM (ITALY)",
+        "Slug": "italy"
+    },
+    {
+        "league": "MEIJI YASUDA J1 (JAPAN)",
+        "Slug": "japan"
+    },
+    {
+        "league": "K LEAGUE 1 (KOREA REPUBLIC)",
+        "Slug": "korea"
+    },
+    {
+        "league": "LIGA BBVA MX (MEXICO)",
+        "Slug": "mexico"
+    },
+    {
+        "league": "EREDIVISIE (NETHERLANDS)",
+        "Slug": "netherlands"
+    },
+    {
+        "league": "ELITESERIEN (NORWAY)",
+        "Slug": "norway"
+    },
+    {
+        "league": "PKO EKSTRAKLASA (POLAND)",
+        "Slug": "poland"
+    },
+    {
+        "league": "LIGA NOS (PORTUGAL)",
+        "Slug": "portugal"
+    },
+    {
+        "league": "LIGA I (ROMANIA)",
+        "Slug": "romania"
+    },
+    {
+        "league": "MBS PRO LEAGUE (SAUDI ARABIA)",
+        "Slug": "arabia"
+    },
+    {
+        "league": "SCOTTISH PREM (SCOTLAND)",
+        "Slug": "scotland"
+    },
+    {
+        "league": "LALIGA SANTANDER (SPAIN)",
+        "Slug": "spain"
+    },
+    {
+        "league": "ALLSVENSKAN (SWEDEN)",
+        "Slug": "sweden"
+    },
+    {
+        "league": "RSL (SWITZERLAND)",
+        "Slug": "switzerland"
+    },
+    {
+        "league": "SÜPER LIG (TURKEY)",
+        "Slug": "turkey"
+    },
+    {
+        "league": "MLS (USA/CANADA)",
+        "Slug": "usa"
+    }
+]
