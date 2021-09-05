@@ -1,0 +1,1922 @@
+{
+    "leagues":[
+        {
+            "league": "LIGA PROFESIONAL DE FÚTBOL (ARGENTINA)",
+            "Slug": "argentina"
+        },
+        {
+            "league": "A-LEAGUE (AUSTRALIA)",
+            "Slug": "australia"
+        },
+        {
+            "league": "Ö. BUNDESLIGA (AUSTRIA)",
+            "Slug": "austria"
+        },
+        {
+            "league": "JUPİLER PRO LEAGUE (BELGIUM)",
+            "Slug": "belgium"
+        },
+        {
+            "league": "CAMPEONATO BRASİLEİRO SÉRİE A (BRAZIL)",
+            "Slug": "brazil"
+        },
+        {
+            "league": "CSL (CHINA)",
+            "Slug": "china"
+        },
+        {
+            "league": "SUPERLİGAEN (DENMARK)",
+            "Slug": "denmark"
+        },
+        {
+            "league": "PREMIER LEAGUE (ENGLAND)",
+            "Slug": "england"
+        },
+        {
+            "league": "LIGUE 1 UBER EATS (FRANCE)",
+            "Slug": "france"
+        },
+        {
+            "league": "BUNDESLIGA (GERMANY)",
+            "Slug": "germany"
+        },
+        {
+            "league": "SSE AIRTRICITY LGE (IRELAND)",
+            "Slug": "ireland"
+        },
+        {
+            "league": "SERIE A TIM (ITALY)",
+            "Slug": "italy"
+        },
+        {
+            "league": "MEIJI YASUDA J1 (JAPAN)",
+            "Slug": "japan"
+        },
+        {
+            "league": "K LEAGUE 1 (KOREA REPUBLIC)",
+            "Slug": "korea"
+        },
+        {
+            "league": "LIGA BBVA MX (MEXICO)",
+            "Slug": "mexico"
+        },
+        {
+            "league": "EREDIVISIE (NETHERLANDS)",
+            "Slug": "netherlands"
+        },
+        {
+            "league": "ELITESERIEN (NORWAY)",
+            "Slug": "norway"
+        },
+        {
+            "league": "PKO EKSTRAKLASA (POLAND)",
+            "Slug": "poland"
+        },
+        {
+            "league": "LIGA NOS (PORTUGAL)",
+            "Slug": "portugal"
+        },
+        {
+            "league": "LIGA I (ROMANIA)",
+            "Slug": "romania"
+        },
+        {
+            "league": "MBS PRO LEAGUE (SAUDI ARABIA)",
+            "Slug": "arabia"
+        },
+        {
+            "league": "SCOTTISH PREM (SCOTLAND)",
+            "Slug": "scotland"
+        },
+        {
+            "league": "LALIGA SANTANDER (SPAIN)",
+            "Slug": "spain"
+        },
+        {
+            "league": "ALLSVENSKAN (SWEDEN)",
+            "Slug": "sweden"
+        },
+        {
+            "league": "RSL (SWITZERLAND)",
+            "Slug": "switzerland"
+        },
+        {
+            "league": "SÜPER LIG (TURKEY)",
+            "Slug": "turkey"
+        },
+        {
+            "league": "MLS (USA/CANADA)",
+            "Slug": "usa"
+        }
+    ],
+    "argentina": [
+        {
+            "Club":"River Plate",
+            "Championship":31
+        },
+        {
+            "Club":"Boca Juniors",
+            "Championship":27
+        },
+        {
+            "Club":"Racing Club",
+            "Championship":18
+        },
+        {
+            "Club":"Independiente",
+            "Championship":14
+        },
+        {
+            "Club":"San Lorenzo",
+            "Championship":11
+        },
+        {
+            "Club":"Vélez Sarsfield",
+            "Championship":10
+        },
+        {
+            "Club":"Newell's Old Boys",
+            "Championship":5
+        },
+        {
+            "Club":"Rosario Central",
+            "Championship":4
+        },
+        {
+            "Club":"Argentinos Juniors",
+            "Championship":3
+        },
+        {
+            "Club":"Lanús",
+            "Championship":2
+        },
+        {
+            "Club":"Arsenal",
+            "Championship":1
+        }
+    ],
+    "australia": [
+        {
+            "Club":"Sydney FC",
+            "Championship":5
+        },
+        {
+            "Club":"Melbourne Victory",
+            "Championship":4
+        },
+        {
+            "Club":"South Melbourne FC",
+            "Championship":4
+        },
+        {
+            "Club":"Marconi Stallions",
+            "Championship":4
+        },
+        {
+            "Club":"Brisbane Roar",
+            "Championship":3
+        },
+        {
+            "Club":"FC Adelaide City",
+            "Championship":3
+        },
+        {
+            "Club":"Perth Glory",
+            "Championship":2
+        },
+        {
+            "Club":"Sydney Olympic",
+            "Championship":2
+        },
+        {
+            "Club":"Wollongong Wolves FC",
+            "Championship":2
+        },
+        {
+            "Club":"Melbourne Knights",
+            "Championship":2
+        },
+        {
+            "Club":"Melbourne City FC",
+            "Championship":1
+        },
+        {
+            "Club":"Adelaide United",
+            "Championship":1
+        },
+        {
+            "Club":"Central Coast Mariners",
+            "Championship":1
+        },
+        {
+            "Club":"Newcastle United Jets",
+            "Championship":1
+        },
+        {
+            "Club":"Brisbane Strikers FC",
+            "Championship":1
+        },
+        {
+            "Club":"APIA Leichhardt Tigers",
+            "Championship":1
+        },
+        {
+            "Club":"St. George Saints",
+            "Championship":1
+        },
+        {
+            "Club":"West Adelaide SC",
+            "Championship":1
+        } 
+    ],
+    "austria":[
+        {
+            "Club":"SK Rapid Viyana",
+            "Championship":32
+        },
+        {
+            "Club":"FK Austria Wien",
+            "Championship":24
+        },
+        {
+            "Club":"Red Bull Salzburg",
+            "Championship":15
+        },
+        {
+            "Club":"FC Wacker Innsbruck",
+            "Championship":10
+        },
+        {
+            "Club":"FC Admira Wacker Mödling",
+            "Championship":9
+        },
+        {
+            "Club":"SK Admira Wien",
+            "Championship":8
+        },
+        {
+            "Club":"First Vienna FC",
+            "Championship":6
+        },
+        {
+            "Club":"SK Sturm Graz",
+            "Championship":3
+        },
+        {
+            "Club":"Wiener Sport-Club",
+            "Championship":3
+        },
+        {
+            "Club":"Grazer AK 1902",
+            "Championship":1
+        },
+        {
+            "Club":"FC Linz",
+            "Championship":1
+        },
+        {
+            "Club":"LASK",
+            "Championship":1
+        },
+        {
+            "Club":"SC Wacker Wien",
+            "Championship":1
+        },
+        {
+            "Club":"SC Hakoah Wien",
+            "Championship":1
+        },
+        {
+            "Club":"Floridsdorfer AC",
+            "Championship":1
+        },
+        {
+            "Club":"Wiener AC",
+            "Championship":1
+        },
+        {
+            "Club":"Wiener AF",
+            "Championship":1
+        }
+    ],
+    "belgium":[
+        {
+            "Club":"RSC Anderlecht",
+            "Championship":34
+        },
+        {
+            "Club":"FC Brügge",
+            "Championship":17
+        },
+        {
+            "Club":"Royale Union Saint Gilloise",
+            "Championship":11
+        },
+        {
+            "Club":"Standard Liège",
+            "Championship":10
+        },
+        {
+            "Club":"Beerschot AC",
+            "Championship":7
+        },
+        {
+            "Club":"KRC Genk",
+            "Championship":4
+        },
+        {
+            "Club":"Lierse SK",
+            "Championship":4
+        },
+        {
+            "Club":"KV Mechelen",
+            "Championship":4
+        },
+        {
+            "Club":"Royal Antwerp FC",
+            "Championship":4
+        },
+        {
+            "Club":"Cercle Brugge",
+            "Championship":3
+        },
+        {
+            "Club":"KSK Beveren",
+            "Championship":2
+        },
+        {
+            "Club":"RFC Lüttich",
+            "Championship":2
+        },
+        {
+            "Club":"KAA Gent",
+            "Championship":1
+        }
+    ],
+    "brazil":[
+        {
+            "Club":"Palmeiras",
+            "Championship":9
+        },
+        {
+            "Club":"Flamengo",
+            "Championship":8
+        },
+        {
+            "Club":"Santos",
+            "Championship":8
+        },
+        {
+            "Club":"Corinthians",
+            "Championship":7
+        },
+        {
+            "Club":"São Paulo",
+            "Championship":6
+        },
+        {
+            "Club":"Cruzeiro",
+            "Championship":4
+        },
+        {
+            "Club":"Fluminense",
+            "Championship":4
+        },
+        {
+            "Club":"Vasco da Gama",
+            "Championship":4
+        },
+        {
+            "Club":"Internacional",
+            "Championship":3
+        },
+        {
+            "Club":"Grêmio",
+            "Championship":2
+        },
+        {
+            "Club":"Botafogo",
+            "Championship":2
+        },
+        {
+            "Club":"Bahia",
+            "Championship":2
+        },
+        {
+            "Club":"Paranaense",
+            "Championship":1
+        },
+        {
+            "Club":"Recife",
+            "Championship":1
+        },
+        {
+            "Club":"Coritiba",
+            "Championship":1
+        },
+        {
+            "Club":"Guarani",
+            "Championship":1
+        },
+        {
+            "Club":"Atlético Mineiro",
+            "Championship":1
+        }        
+    ],
+    "china":[
+        {
+            "Club":"Guangzhou FC",
+            "Championship":8
+        },
+        {
+            "Club":"Dalian Shide",
+            "Championship":8
+        },
+        {
+            "Club":"Shandong Taishan",
+            "Championship":4
+        },
+        {
+            "Club":"Jiangsu FC",
+            "Championship":1
+        },
+        {
+            "Club":"Shanghai Port",
+            "Championship":1
+        },
+        {
+            "Club":"Beijing Guoan",
+            "Championship":1
+        },
+        {
+            "Club":"Changchun Yatai",
+            "Championship":1
+        },
+        {
+            "Club":"Shenzhen FC",
+            "Championship":1
+        },
+        {
+            "Club":"Shanghai Shenhua",
+            "Championship":1
+        }
+    ],
+    "denmark":[
+        {
+            "Club":"Kjöbenhavns Boldklub",
+            "Championship":15
+        },
+        {
+            "Club":"FC Kopenhag",
+            "Championship":13
+        },
+        {
+            "Club":"Bröndby IF",
+            "Championship":11
+        },
+        {
+            "Club":"Akademisk Boldklub",
+            "Championship":9
+        },
+        {
+            "Club":"Boldklubben af 1893",
+            "Championship":9
+        },
+        {
+            "Club":"Boldklubben 1903",
+            "Championship":7
+        },
+        {
+            "Club":"BK Frem",
+            "Championship":6
+        },
+        {
+            "Club":"Aarhus GF",
+            "Championship":5
+        },
+        {
+            "Club":"Vejle Boldklub",
+            "Championship":5
+        },
+        {
+            "Club":"Esbjerg fB",
+            "Championship":5
+        },
+        {
+            "Club":"Aalborg BK",
+            "Championship":4
+        },
+        {
+            "Club":"FC Midtjylland",
+            "Championship":3
+        },
+        {
+            "Club":"Odense Boldklub",
+            "Championship":3
+        },
+        {
+            "Club":"Hvidovre IF",
+            "Championship":3
+        },
+        {
+            "Club":"Lyngby BK",
+            "Championship":2
+        },
+        {
+            "Club":"Köge Boldklub",
+            "Championship":2
+        },
+        {
+            "Club":"B1909 Odense",
+            "Championship":2
+        },
+        {
+            "Club":"FC Nordsjaelland",
+            "Championship":1
+        },
+        {
+            "Club":"Herfölge Boldklub",
+            "Championship":1
+        },
+        {
+            "Club":"Silkeborg IF",
+            "Championship":1
+        }
+    ],
+    "england":[
+        {
+            "Club":"Manchester United",
+            "Championship":20
+        },
+        {
+            "Club":"Liverpool",
+            "Championship":19
+        },
+        {
+            "Club":"Arsenal",
+            "Championship":13
+        },
+        {
+            "Club":"Everton",
+            "Championship":9
+        },
+        {
+            "Club":"Manchester City",
+            "Championship":7
+        },
+        {
+            "Club":"Aston Villa",
+            "Championship":7
+        },
+        {
+            "Club":"Chelsea",
+            "Championship":6
+        },
+        {
+            "Club":"Sunderland",
+            "Championship":6
+        },
+        {
+            "Club":"Sheffield Wednesday",
+            "Championship":4
+        },
+        {
+            "Club":"Newcastle United",
+            "Championship":4
+        },
+        {
+            "Club":"Blackburn Rovers",
+            "Championship":3
+        },
+        {
+            "Club":"Leeds United",
+            "Championship":3
+        },
+        {
+            "Club":"Wolverhampton Wanderers",
+            "Championship":3
+        },
+        {
+            "Club":"Huddersfield Town",
+            "Championship":3
+        },
+        {
+            "Club":"Derby County",
+            "Championship":2
+        },
+        {
+            "Club":"Tottenham Hotspur",
+            "Championship":2
+        },
+        {
+            "Club":"Burnley",
+            "Championship":2
+        },
+        {
+            "Club":"FC Portsmouth",
+            "Championship":2
+        },
+        {
+            "Club":"Preston North End",
+            "Championship":2
+        },
+        {
+            "Club":"Leicester City",
+            "Championship":1
+        },
+        {
+            "Club":"Nottingham Forest",
+            "Championship":1
+        },
+        {
+            "Club":"Ipswich Town",
+            "Championship":1
+        },
+        {
+            "Club":"West Bromwich",
+            "Championship":1
+        },
+        {
+            "Club":"Sheffield United",
+            "Championship":1
+        }
+    ],
+    "france":[
+        {
+            "Club":"Saint-Étienne",
+            "Championship":10
+        },
+        {
+            "Club":"Paris Saint-Germain",
+            "Championship":9
+        },
+        {
+            "Club":"Olimpik Marsilya",
+            "Championship":9
+        },
+        {
+            "Club":"Monaco",
+            "Championship":8
+        },
+        {
+            "Club":"FC Nantes",
+            "Championship":8
+        },
+        {
+            "Club":"Olympique Lyon",
+            "Championship":7
+        },
+        {
+            "Club":"Girondins Bordeaux",
+            "Championship":6
+        },
+        {
+            "Club":"Stade Reims",
+            "Championship":6
+        },
+        {
+            "Club":"LOSC Lille",
+            "Championship":5
+        },
+        {
+            "Club":"OGC Nizza",
+            "Championship":4
+        },
+        {
+            "Club":"FC Sète 34",
+            "Championship":2
+        },
+        {
+            "Club":"FC Sochaux-Montbéliard",
+            "Championship":2
+        },
+        {
+            "Club":"Montpellier HSC",
+            "Championship":1
+        },
+        {
+            "Club":"",
+            "Championship":1
+        },
+        {
+            "Club":"AJ Auxerre",
+            "Championship":1
+        },
+        {
+            "Club":"RC Strasbourg Alsace",
+            "Championship":1
+        },
+        {
+            "Club":"Racing Club",
+            "Championship":1
+        }
+    ],
+    "germany":[
+        {
+            "Club":"Bayern Münih",
+            "Championship":31
+        },
+        {
+            "Club":"Nürnberg",
+            "Championship":9
+        },
+        {
+            "Club":"Borussia Dortmund",
+            "Championship":8
+        },
+        {
+            "Club":"Schalke 04",
+            "Championship":7
+        },
+        {
+            "Club":"Hamburg",
+            "Championship":6
+        },
+        {
+            "Club":"Stuttgart",
+            "Championship":5
+        },
+        {
+            "Club":"Borussia Mönchengladbach",
+            "Championship":5
+        },
+        {
+            "Club":"Werder Bremen",
+            "Championship":4
+        },
+        {
+            "Club":"1.FC Kaiserslautern",
+            "Championship":4
+        },
+        {
+            "Club":"Köln",
+            "Championship":3
+        },
+        {
+            "Club":"Greuther Fürth",
+            "Championship":3
+        },
+        {
+            "Club":"VfB Leipzig",
+            "Championship":3
+        },
+        {
+            "Club":"Hannover 96",
+            "Championship":2
+        },
+        {
+            "Club":"Dresdner SC",
+            "Championship":2
+        },
+        {
+            "Club":"Hertha Berlin",
+            "Championship":2
+        },
+        {
+            "Club":"BFC Viktoria 89",
+            "Championship":2
+        },
+        {
+            "Club":"FC Viktoria 1889 Berlin",
+            "Championship":2
+        },
+        {
+            "Club":"Wolfsburg",
+            "Championship":1
+        },
+        {
+            "Club":"Eintracht Braunschweig",
+            "Championship":1
+        },
+        {
+            "Club":"TSV 1860 München",
+            "Championship":1
+        },
+        {
+            "Club":"Eintracht Frankfurt",
+            "Championship":1
+        },
+        {
+            "Club":"Rot-Weiss Essen",
+            "Championship":1
+        },
+        {
+            "Club":"VfR Mannheim",
+            "Championship":1
+        },
+        {
+            "Club":"SK Rapid Viyana",
+            "Championship":1
+        },
+        {
+            "Club":"Fortuna Düsseldorf",
+            "Championship":1
+        },
+        {
+            "Club":"Holstein Kiel",
+            "Championship":1
+        },
+        {
+            "Club":"Karlsruher FV",
+            "Championship":1
+        },
+        {
+            "Club":"Karlsruhe",
+            "Championship":1
+        },
+        {
+            "Club":"Freiburger FC",
+            "Championship":1
+        },
+        {
+            "Club":"Union 92 Berlin",
+            "Championship":1
+        }
+    ],
+    "ireland":[
+        {
+            "Club":"Shamrock Rovers",
+            "Championship":18
+        },
+        {
+            "Club":"Dundalk FC",
+            "Championship":14
+        },
+        {
+            "Club":"Shelbourne FC",
+            "Championship":13
+        },
+        {
+            "Club":"Dublin",
+            "Championship":11
+        },
+        {
+            "Club":"St. Patricks Athletic",
+            "Championship":8
+        },
+        {
+            "Club":"Waterford FC",
+            "Championship":6
+        },
+        {
+            "Club":"Drumcondra FC",
+            "Championship":5
+        },
+        {
+            "Club":"Sligo Rovers",
+            "Championship":4
+        },
+        {
+            "Club":"Cork City FC",
+            "Championship":2
+        },
+        {
+            "Club":"Derry City",
+            "Championship":2
+        },
+        {
+            "Club":"Athlone Town AFC",
+            "Championship":2
+        },
+        {
+            "Club":"Limerick FC",
+            "Championship":2
+        },
+        {
+            "Club":"St James's Gate FC",
+            "Championship":2
+        },
+        {
+            "Club":"Cork City FC",
+            "Championship":1
+        },
+        {
+            "Club":"Drogheda United FC",
+            "Championship":1
+        },
+        {
+            "Club":"Cork Celtic FC",
+            "Championship":1
+        },
+        {
+            "Club":"Cork Hibernians",
+            "Championship":1
+        }
+    ],
+    "italy":[
+        {
+            "Club":"Juventus",
+            "Championship":36
+        },
+        {
+            "Club":"Inter",
+            "Championship":19
+        },
+        {
+            "Club":"Milan",
+            "Championship":18
+        },
+        {
+            "Club":"Genoa",
+            "Championship":9
+        },
+        {
+            "Club":"Torino",
+            "Championship":7
+        },
+        {
+            "Club":"Bologna",
+            "Championship":7
+        },
+        {
+            "Club":"FC Pro Vercelli 1892",
+            "Championship":7
+        },
+        {
+            "Club":"Roma",
+            "Championship":3
+        },
+        {
+            "Club":"Lazio",
+            "Championship":2
+        },
+        {
+            "Club":"Napoli",
+            "Championship":2
+        },
+        {
+            "Club":"Fiorentina",
+            "Championship":2
+        },
+        {
+            "Club":"Sampdoria",
+            "Championship":1
+        },
+        {
+            "Club":"Hellas Verona",
+            "Championship":1
+        },
+        {
+            "Club":"Cagliari",
+            "Championship":1
+        },
+        {
+            "Club":"ASD Novese",
+            "Championship":1
+        },
+        {
+            "Club":"FBC Casale",
+            "Championship":1
+        }
+    ],
+    "japan":[
+        {
+            "Club":"Kashima Antlers",
+            "Championship":8
+        },
+        {
+            "Club":"Yokohama F. Marinos",
+            "Championship":4
+        },
+        {
+            "Club":"Kawasaki Frontale",
+            "Championship":3
+        },
+        {
+            "Club":"Sanfrecce Hiroshima",
+            "Championship":3
+        },
+        {
+            "Club":"Júbilo Iwata",
+            "Championship":3
+        },
+        {
+            "Club":"Gamba Osaka",
+            "Championship":2
+        },
+        {
+            "Club":"Tokyo Verdy",
+            "Championship":2
+        },
+        {
+            "Club":"Kashiwa Reysol",
+            "Championship":1
+        },
+        {
+            "Club":"Nagoya Grampus",
+            "Championship":1
+        },
+        {
+            "Club":"Urawa Red Diamonds",
+            "Championship":1
+        }
+    ],
+    "korea":[
+        {
+            "Club":"Jeonbuk Hyundai Motors",
+            "Championship":8
+        },
+        {
+            "Club":"Seongnam FC",
+            "Championship":7
+        },
+        {
+            "Club":"FC Seoul",
+            "Championship":6
+        },
+        {
+            "Club":"Pohang Steelers",
+            "Championship":5
+        },
+        {
+            "Club":"Suwon Samsung Bluewings",
+            "Championship":4
+        },
+        {
+            "Club":"Busan IPark",
+            "Championship":4
+        },
+        {
+            "Club":"Ulsan Hyundai",
+            "Championship":2
+        },
+        {
+            "Club":"Jeju United",
+            "Championship":1
+        },
+        {
+            "Club":"Hallelujah FC",
+            "Championship":1
+        }
+    ],
+    "mexico":[
+        {
+            "Club":"CF América",
+            "Championship":13
+        },
+        {
+            "Club":"Deportivo Guadalajara",
+            "Championship":10
+        },
+        {
+            "Club":"CD Cruz Azul",
+            "Championship":9
+        },
+        {
+            "Club":"Club León FC",
+            "Championship":7
+        },
+        {
+            "Club":"Tigres UANL",
+            "Championship":6
+        },
+        {
+            "Club":"CF Pachuca",
+            "Championship":6
+        },
+        {
+            "Club":"Deportivo Toluca",
+            "Championship":6
+        },
+        {
+            "Club":"CF Monterrey",
+            "Championship":4
+        },
+        {
+            "Club":"UNAM Pumas",
+            "Championship":4
+        },
+        {
+            "Club":"CF Atlante",
+            "Championship":3
+        },
+        {
+            "Club":"Club Necaxa",
+            "Championship":3
+        },
+        {
+            "Club":"Puebla FC",
+            "Championship":2
+        },
+        {
+            "Club":"Club Atlético Zacatepec",
+            "Championship":2
+        },
+        {
+            "Club":"Tiburones Rojos de Veracruz",
+            "Championship":2
+        },
+        {
+            "Club":"Club Tijuana",
+            "Championship":1
+        },
+        {
+            "Club":"Club Atlético Morelia",
+            "Championship":1
+        },
+        {
+            "Club":"Santos Laguna",
+            "Championship":1
+        },
+        {
+            "Club":"Tecos FC",
+            "Championship":1
+        },
+        {
+            "Club":"Club Oro de Jalisco",
+            "Championship":1
+        },
+        {
+            "Club":"CD Marte",
+            "Championship":1
+        },
+        {
+            "Club":"Tampico Madero",
+            "Championship":1
+        },
+        {
+            "Club":"Atlas Guadalajara",
+            "Championship":1
+        }
+    ],
+    "netherlands":[
+        {
+            "Club":"Ajax Amsterdam",
+            "Championship":35
+        },
+        {
+            "Club":"PSV Eindhoven",
+            "Championship":24
+        },
+        {
+            "Club":"Feyenoord",
+            "Championship":15
+        },
+        {
+            "Club":"HVV Den Haag",
+            "Championship":10
+        },
+        {
+            "Club":"Sparta Rotterdam",
+            "Championship":6
+        },
+        {
+            "Club":"RAP Amsterdam",
+            "Championship":5
+        },
+        {
+            "Club":"Go Ahead Eagles Deventer",
+            "Championship":4
+        },
+        {
+            "Club":"Willem II",
+            "Championship":3
+        },
+        {
+            "Club":"HBS Craeyenhout",
+            "Championship":3
+        },
+        {
+            "Club":"Koninklijke HFC Haarlem",
+            "Championship":3
+        },
+        {
+            "Club":"AZ Alkmaar",
+            "Championship":2
+        },
+        {
+            "Club":"RCH Heemstede",
+            "Championship":2
+        },
+        {
+            "Club":"ADO Den Haag",
+            "Championship":2
+        },
+        {
+            "Club":"Heracles Almelo",
+            "Championship":2
+        },
+        {
+            "Club":"Twente Enschede",
+            "Championship":1
+        },
+        {
+            "Club":"DWS Amsterdam",
+            "Championship":1
+        },
+        {
+            "Club":"VV DOS Utrecht",
+            "Championship":1
+        },
+        {
+            "Club":"Rapid JC",
+            "Championship":1
+        },
+        {
+            "Club":"FC Eindhoven",
+            "Championship":1
+        },
+        {
+            "Club":"SV Limburgia",
+            "Championship":1
+        },
+        {
+            "Club":"SVV Schiedam",
+            "Championship":1
+        },
+        {
+            "Club":"FC Den Bosch",
+            "Championship":1
+        },
+        {
+            "Club":"HFC Haarlem",
+            "Championship":1
+        },
+        {
+            "Club":"ASC De Volewijckers",
+            "Championship":1
+        },
+        {
+            "Club":"SC Enschede",
+            "Championship":1
+        },
+        {
+            "Club":"NAC Breda",
+            "Championship":1
+        },
+        {
+            "Club":"Be Quick 1887",
+            "Championship":1
+        },
+        {
+            "Club":"HV & CV Quick",
+            "Championship":1
+        },
+        {
+            "Club":"VOC Rotterdam",
+            "Championship":1
+        }
+    ],
+    "norway":[
+        {
+            "Club":"Rosenborg BK",
+            "Championship":26
+        },
+        {
+            "Club":"Fredrikstad FK",
+            "Championship":9
+        },
+        {
+            "Club":"Viking Stavanger",
+            "Championship":8
+        },
+        {
+            "Club":"Vålerenga Fotball",
+            "Championship":5
+        },
+        {
+            "Club":"Lillestrøm SK",
+            "Championship":5
+        },
+        {
+            "Club":"Molde FK",
+            "Championship":4
+        },
+        {
+            "Club":"SK Brann",
+            "Championship":3
+        },
+        {
+            "Club":"Larvik Turn",
+            "Championship":3
+        },
+        {
+            "Club":"Strømsgodset IF",
+            "Championship":2
+        },
+        {
+            "Club":"IK Start",
+            "Championship":2
+        },
+        {
+            "Club":"FK Lyn",
+            "Championship":2
+        },
+        {
+            "Club":"FK Bodø/Glimt",
+            "Championship":1
+        },
+        {
+            "Club":"Stabæk Fotball",
+            "Championship":1
+        },
+        {
+            "Club":"Moss FK",
+            "Championship":1
+        },
+        {
+            "Club":"Skeid Oslo",
+            "Championship":1
+        },
+        {
+            "Club":"FK Sparta Sarpsborg",
+            "Championship":1
+        },
+        {
+            "Club":"Fram Larvik",
+            "Championship":1
+        },
+        {
+            "Club":"SK Freidig",
+            "Championship":1
+        }
+    ],
+    "poland":[
+        {
+            "Club":"Legia Varşova",
+            "Championship":15
+        },
+        {
+            "Club":"Ruch Chorzow",
+            "Championship":14
+        },
+        {
+            "Club":"Górnik Zabrze",
+            "Championship":14
+        },
+        {
+            "Club":"Wisla Krakow",
+            "Championship":13
+        },
+        {
+            "Club":"Lech Poznan",
+            "Championship":7
+        },
+        {
+            "Club":"Cracovia",
+            "Championship":5
+        },
+        {
+            "Club":"Widzew Lodz",
+            "Championship":4
+        },
+        {
+            "Club":"Pogon Lviv",
+            "Championship":4
+        },
+        {
+            "Club":"Slask Wroclaw",
+            "Championship":2
+        },
+        {
+            "Club":"Zaglebie Lubin",
+            "Championship":2
+        },
+        {
+            "Club":"Polonia Warschau",
+            "Championship":2
+        },
+        {
+            "Club":"LKS Lodz",
+            "Championship":2
+        },
+        {
+            "Club":"Stal Mielec",
+            "Championship":2
+        },
+        {
+            "Club":"Polonia Bytom",
+            "Championship":2
+        },
+        {
+            "Club":"Warta Poznań",
+            "Championship":2
+        },
+        {
+            "Club":"Piast Gliwice",
+            "Championship":1
+        },
+        {
+            "Club":"Szombierki Bytom",
+            "Championship":1
+        },
+        {
+            "Club":"Garbarnia Krakow",
+            "Championship":1
+        }
+    ],
+    "portugal":[
+        {
+            "Club":"SL Benfica",
+            "Championship":37
+        },
+        {
+            "Club":"FC Porto",
+            "Championship":29
+        },
+        {
+            "Club":"Sporting CP",
+            "Championship":19
+        },
+        {
+            "Club":"CF Os Belenenses",
+            "Championship":4
+        },
+        {
+            "Club":"Boavista Porto FC",
+            "Championship":1
+        },
+        {
+            "Club":"CS Marítimo",
+            "Championship":1
+        }
+    ],
+    "romania":[
+        {
+            "Club":"FCSB",
+            "Championship":26
+        },
+        {
+            "Club":"FC Dinamo Bukarest",
+            "Championship":18
+        },
+        {
+            "Club":"Venus Bükreş",
+            "Championship":8
+        },
+        {
+            "Club":"CFR Cluj",
+            "Championship":7
+        },
+        {
+            "Club":"UTA Arad",
+            "Championship":6
+        },
+        {
+            "Club":"Chinezul Timisoara",
+            "Championship":6
+        },
+        {
+            "Club":"Universitatea Craiova",
+            "Championship":4
+        },
+        {
+            "Club":"Petrolul Ploiesti",
+            "Championship":4
+        },
+        {
+            "Club":"Ripensia Timisoara",
+            "Championship":4
+        },
+        {
+            "Club":"FC Rapid Bucuresti",
+            "Championship":3
+        },
+        {
+            "Club":"ACSC FC Arges",
+            "Championship":2
+        },
+        {
+            "Club":"FC Arges Pitesti",
+            "Championship":2
+        },
+        {
+            "Club":"Prahova United Ploiesti",
+            "Championship":2
+        },
+        {
+            "Club":"Colentina Bukarest",
+            "Championship":2
+        },
+        {
+            "Club":"Olympia Bukarest",
+            "Championship":2
+        },
+        {
+            "Club":"FC Farul Constanta",
+            "Championship":1
+        },
+        {
+            "Club":"Astra Giurgiu",
+            "Championship":1
+        },
+        {
+            "Club":"SC Otelul Galati",
+            "Championship":1
+        },
+        {
+            "Club":"Unirea Urziceni",
+            "Championship":1
+        },
+        {
+            "Club":"Club Atletic Oradea",
+            "Championship":1
+        },
+        {
+            "Club":"Unirea Tricolor Bucuresti",
+            "Championship":1
+        },
+        {
+            "Club":"CSM Resita",
+            "Championship":1
+        },
+        {
+            "Club":"Coltea Brasov",
+            "Championship":1
+        },
+        {
+            "Club":"FC Romano-Americana Bukarest",
+            "Championship":1
+        }
+    ],
+    "arabia":[
+        {
+            "Club":"Al-Hilal Riyad",
+            "Championship":17
+        },
+        {
+            "Club":"Al-Nassr Riad",
+            "Championship":9
+        },
+        {
+            "Club":"Al-Ittihad Cidde",
+            "Championship":8
+        },
+        {
+            "Club":"Al-Shabab Riyad",
+            "Championship":6
+        },
+        {
+            "Club":"Al-Ahli Cidde",
+            "Championship":3
+        },
+        {
+            "Club":"Al-Ettifaq",
+            "Championship":2
+        },
+        {
+            "Club":"Al-Fateh",
+            "Championship":1
+        }
+    ],
+    "scotland":[
+        {
+            "Club":"Glasgow Rangers",
+            "Championship":55
+        },
+        {
+            "Club":"Celtic",
+            "Championship":51
+        },
+        {
+            "Club":"Aberdeen FC",
+            "Championship":4
+        },
+        {
+            "Club":"Heart of Midlothian FC",
+            "Championship":4
+        },
+        {
+            "Club":"Hibernian FC",
+            "Championship":4
+        },
+        {
+            "Club":"Dumbarton FC",
+            "Championship":2
+        },
+        {
+            "Club":"Dundee United FC",
+            "Championship":1
+        },
+        {
+            "Club":"Kilmarnock FC",
+            "Championship":1
+        },
+        {
+            "Club":"Dundee FC",
+            "Championship":1
+        },
+        {
+            "Club":"Motherwell FC",
+            "Championship":1
+        },
+        {
+            "Club":"Third Lanark",
+            "Championship":1
+        }
+    ],
+    "spain":[
+        {
+            "Club":"Real Madrid",
+            "Championship":34
+        },
+        {
+            "Club":"FC Barcelona",
+            "Championship":26
+        },
+        {
+            "Club":"Atlético de Madrid",
+            "Championship":11
+        },
+        {
+            "Club":"Athletic Bilbao",
+            "Championship":8
+        },
+        {
+            "Club":"Valencia",
+            "Championship":6
+        },
+        {
+            "Club":"Real Sociedad",
+            "Championship":2
+        },
+        {
+            "Club":"Deportivo La Coruña",
+            "Championship":1
+        },
+        {
+            "Club":"Sevilla",
+            "Championship":1
+        },
+        {
+            "Club":"Real Betis",
+            "Championship":1
+        }
+    ],
+    "sweden":[
+        {
+            "Club":"Malmö FF",
+            "Championship":21
+        },
+        {
+            "Club":"IFK Göteborg",
+            "Championship":18
+        },
+        {
+            "Club":"Örgryte IS",
+            "Championship":14
+        },
+        {
+            "Club":"IFK Norrköping",
+            "Championship":13
+        },
+        {
+            "Club":"Djurgardens IF",
+            "Championship":12
+        },
+        {
+            "Club":"AIK Solna",
+            "Championship":12
+        },
+        {
+            "Club":"Helsingborgs IF",
+            "Championship":7
+        },
+        {
+            "Club":"IF Elfsborg",
+            "Championship":6
+        },
+        {
+            "Club":"GAIS Göteborg",
+            "Championship":6
+        },
+        {
+            "Club":"Halmstads BK",
+            "Championship":4
+        },
+        {
+            "Club":"Östers IF",
+            "Championship":4
+        },
+        {
+            "Club":"Atvidabergs FF",
+            "Championship":2
+        },
+        {
+            "Club":"Kalmar FF",
+            "Championship":1
+        },
+        {
+            "Club":"Hammarby IF",
+            "Championship":1
+        },
+        {
+            "Club":"IK Sleipner",
+            "Championship":1
+        },
+        {
+            "Club":"Brynäs IF",
+            "Championship":1
+        },
+        {
+            "Club":"Fässbergs IF",
+            "Championship":1
+        },
+        {
+            "Club":"IFK Eskilstuna",
+            "Championship":1
+        },
+        {
+            "Club":"Göteborgs IF",
+            "Championship":1
+        }
+    ],
+    "switzerland":[
+        {
+            "Club":"Grasshopper Club Zürih",
+            "Championship":27
+        },
+        {
+            "Club":"FC Basel 1893",
+            "Championship":20
+        },
+        {
+            "Club":"Servette FC",
+            "Championship":17
+        },
+        {
+            "Club":"BSC Young Boys",
+            "Championship":15
+        },
+        {
+            "Club":"FC Zürich",
+            "Championship":12
+        },
+        {
+            "Club":"FC Lausanne-Sport",
+            "Championship":7
+        },
+        {
+            "Club":"FC Aarau",
+            "Championship":3
+        },
+        {
+            "Club":"FC La Chaux-de-Fonds",
+            "Championship":3
+        },
+        {
+            "Club":"FC Lugano",
+            "Championship":3
+        },
+        {
+            "Club":"FC Winterthur",
+            "Championship":3
+        },
+        {
+            "Club":"FC St. Gallen 1879",
+            "Championship":2
+        },
+        {
+            "Club":"FC Sion",
+            "Championship":2
+        },
+        {
+            "Club":"Neuchâtel Xamax FCS",
+            "Championship":2
+        },
+        {
+            "Club":"FC Luzern",
+            "Championship":1
+        },
+        {
+            "Club":"AC Bellinzona",
+            "Championship":1
+        },
+        {
+            "Club":"FC Biel-Bienne",
+            "Championship":1
+        },
+        {
+            "Club":"FC Etoile-Sporting",
+            "Championship":1
+        },
+        {
+            "Club":"FC Cantonal Neuchâtel",
+            "Championship":1
+        },
+        {
+            "Club":"SC Brühl SG",
+            "Championship":1
+        },
+        {
+            "Club":"Anglo-American Club Zürich",
+            "Championship":1
+        }
+    ],
+    "turkey":[
+        {
+            "Club":"Fenerbahçe",
+            "Championship":28
+        },
+        {
+            "Club":"Galatasaray",
+            "Championship":23
+        },
+        {
+            "Club":"Beşiktaş",
+            "Championship":21
+        },
+        {
+            "Club":"Trabzonspor",
+            "Championship":6
+        },
+        {
+            "Club":"Harp Okulu",
+            "Championship":3
+        },
+        {
+            "Club":"Gençlerbirliği",
+            "Championship":2
+        },
+        {
+            "Club":"İstanbul Başakşehir",
+            "Championship":1
+        },
+        {
+            "Club":"Ankara Demirspor",
+            "Championship":1
+        },
+        {
+            "Club":"Göztepe",
+            "Championship":1
+        },
+        {
+            "Club":"Muhafızgücü",
+            "Championship":1
+        },
+        {
+            "Club":"İstanbulspor",
+            "Championship":1
+        },
+        {
+            "Club":"Güneş",
+            "Championship":1
+        },
+        {
+            "Club":"Eskişehir Demirspor",
+            "Championship":1
+        },
+        {
+            "Club":"Ankaragücü",
+            "Championship":1
+        },
+        {
+            "Club":"Bursaspor",
+            "Championship":1
+        }
+    ],
+    "usa":[
+        {
+            "Club":"Los Angeles Galaxy",
+            "Championship":5
+        },
+        {
+            "Club":"D.C. United",
+            "Championship":4
+        },
+        {
+            "Club":"Columbus Crew",
+            "Championship":2
+        },
+        {
+            "Club":"Seattle Sounders FC",
+            "Championship":2
+        },
+        {
+            "Club":"Sporting Kansas City",
+            "Championship":2
+        },
+        {
+            "Club":"Houston Dynamo FC",
+            "Championship":2
+        },
+        {
+            "Club":"San Jose Earthquakes",
+            "Championship":2
+        },
+        {
+            "Club":"Atlanta United FC",
+            "Championship":1
+        },
+        {
+            "Club":"Toronto FC",
+            "Championship":1
+        },
+        {
+            "Club":"Portland Timbers",
+            "Championship":1
+        },
+        {
+            "Club":"Colorado Rapids",
+            "Championship":1
+        },
+        {
+            "Club":"Real Salt Lake City",
+            "Championship":1
+        },
+        {
+            "Club":"Chicago Fire FC",
+            "Championship":1
+        }
+    ]
+}
