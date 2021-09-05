@@ -1,12 +1,13 @@
 import axios from "axios";
-import Leagues from "../api/leagues.json"
+
+const  mainLink = "http://localhost:3000"
 
 export const fetchLeagues = async () => {
-    const { data } = await axios.get(Leagues)
+    const { data } = await axios.get(`${mainLink}/leagues`)
     return data
 }
 
-// export const fetchDailyData = async (country) => {
-//     const { data } = await axios.get(`${mainLink}/dayone/country/${country}`)
-//     return data
-// }
+export const fetchClubTrophy = async (league) => {
+    const { data } = await axios.get(`${mainLink}/${league}`)
+    return data
+}

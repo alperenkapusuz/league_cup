@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import CssBaseline from "@material-ui/core/CssBaseline";
 import Container from "@material-ui/core/Container";
 import Grid from "@material-ui/core/Grid";
@@ -7,7 +7,8 @@ import { makeStyles } from "@material-ui/core/styles";
 import MenuItem from "@material-ui/core/MenuItem";
 import FormControl from "@material-ui/core/FormControl";
 import Select from "@material-ui/core/Select";
-import Leagues from "./components/api/leagues.json"
+import { fetchLeagues } from './components/apiFunction/ApiFunction';
+import BarChart from './components/BarChart';
 
 const useStyles = makeStyles(() => ({
   formControl: {
@@ -17,10 +18,18 @@ const useStyles = makeStyles(() => ({
 }));
 
 const App = () => {
-
+  const [leagues, setLeagues] = useState([])
   const [league, setLeague] = useState("LIGA PROFESIONAL DE FÚTBOL (ARGENTINA)");
 
+  useEffect(() => {
+    const fetchLeaguesData = async () => {
+      const leagues = await fetchLeagues();
+      setLeagues(leagues);
+    };
+    fetchLeaguesData();
+  }, []);
   const classes = useStyles();
+
   return (
 <React.Fragment>
       <CssBaseline />
@@ -32,7 +41,7 @@ const App = () => {
               onChange={event => setLeague(event.target.value)}
             >
               {
-                Leagues.map(league => (
+                leagues.map(league => (
                   <MenuItem value={league.Slug}>{league.league}</MenuItem>
                 ))
               }
@@ -40,7 +49,7 @@ const App = () => {
           </FormControl> 
           <Grid item xs={12}>
             <Paper>
-              sa
+              <BarChart league={league}/>
             </Paper>  
           </Grid>
         </Grid>
