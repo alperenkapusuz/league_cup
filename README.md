@@ -19,3 +19,6 @@ https://uigradients.com/
 
 Used logo site:
 https://www.flaticon.com/
+
+------------------------------------
+youtube: https://youtu.be/pql_74NaStA
